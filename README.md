@@ -1,9 +1,15 @@
 # NVDA-GEFORCE-FESTVAL-IN-SOUTH-KOREA
 
-인스타그램 광고 알고리즘이 이런쪽(IT Conference 등으로) 편향된 덕분에 신청한 지포스 페스티벌.
-마침 APEC기간이랑 겹치는 데다가 젠슨황도 방한한다고 해서 설마했다. (사실 젠슨황을 보는 것보다는 기념품샵에서도 뭐라도 사고싶었다.)
-2025-10-30 KOEX에서 개최한 NVDA GEFORECE 25 주년을 맞이한 페스티벌에 참여.
-젠슨 황이 치맥을 즐기면서 시민들과 소통한 시간은 몇시간이었겠지만 사람들에게는 소통하는 CEO로 남았을 것이다.
-나도 직접 대기업 총수들의 만담을 직접 직관하니(??:iPhone이 많네요) 재밌었다.
+NVIDIA GEFORCE FESTIVAL IN SOUTH KOREA
 
-대충 이건희가 30년전 젠슨황한테 손 편지 보낸 얘기.
+Thanks to my Instagram ad algorithm being biased towards IT conferences, I found out about and applied for the GeForce Festival.
+
+It happened to overlap with the APEC summit period, and with news that CEO Jensen Huang would also be visiting Korea, I started to wonder, "Could he actually show up at the event?" (To be honest, I was more excited about buying something from the gift shop than seeing him.)
+
+On October 30, 2025, I attended the festival at KOEX, celebrating the 25th anniversary of NVIDIA GeForce.
+
+Jensen Huang mentioned he had just had "chimaek" (chicken and beer) with Samsung's Chairman Jay Y. Lee and Hyundai's Chairman Euisun Chung before coming. From his perspective, this was a visit 15 years in the making—returning to a country where his connection began 30 years ago with a letter from the late Chairman Lee Kun-hee, all after NVIDIA reached a $5 trillion market cap. For the audience, seeing the CEO of the world's number one company be so approachable and friendly seemed like a win-win for everyone.
+
+It was especially interesting to see the "crosstalk" between these major corporate leaders firsthand. (Chairman Lee joked to the crowd filming him, "I see a lot of iPhones," and Chairman Chung remarked that he was surprisingly the youngest one there. You can likely find more details about this on YouTube.)
+
+Personally, what impressed me the most were two stories: the fact that 30 years ago, Chairman Lee Kun-hee saw the vision for GPUs and sent Jensen Huang a personal handwritten letter, and the fact that Jensen Huang himself used to visit the Yongsan Electronics Market back in the day, just trying to sell one more GPU.
